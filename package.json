@@ -11,7 +11,7 @@
     "e2e": "ng e2e"
   },
   "private": false,
-  "main": "bundles/ng2-charts.umd.js",
+  "main": "bundles/ng2httpevents.js",
   "module": "index.js",
   "typings": "index.d.ts",
   "keywords": [
